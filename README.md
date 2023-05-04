@@ -1,5 +1,5 @@
 # Life-expectancy-Predictor
-This program is designed to predict the life expectancy rate of women based on certain factors such as their country of residence, the year in which the data was collected, and their age.
+This program is designed to predict the life expectancy rate of women based on certain factors.
 
 Installation:
 To use this program, you will need to have Python 3 installed on your machine. You can download the latest version of Python from the official website: https://www.python.org/downloads/
