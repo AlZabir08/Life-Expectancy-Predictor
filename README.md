@@ -1,4 +1,4 @@
-# Life-expectancy-predictor
+# Life-expectancy-Predictor
 This program is designed to predict the life expectancy rate of women based on certain factors such as their country of residence, the year in which the data was collected, and their age.
 
 Installation:
